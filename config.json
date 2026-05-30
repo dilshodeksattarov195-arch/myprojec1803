@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervync",
+        "uuid": 2006739,
+        "checksum": "crogpd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
